@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Bubble Bash 3",
+    "url": "/games/BubbleBash3.jar",
+    "icon": "/games/BubbleBash3.png",
+    "width": 240,
+    "height": 320
+  },
+  {
+    "title": "Diamond Twister",
+    "url": "/games/DiamondTwister.jar",
+    "icon": "/games/DiamondTwister.png",
+    "width": 176,
+    "height": 220
+  },
+  {
+    "title": "Green Farm 3",
+    "url": "/games/GreenFarm3.jar",
+    "icon": "/games/GreenFarm3.png",
+    "width": 132,
+    "height": 176
+  },
+  {
+    "title": "Hero Of Sparta",
+    "url": "/games/HeroOfSparta.jar",
+    "icon": "/games/HeroOfSparta.png",
+    "width": 176,
+    "height": 220
+  },
+  {
+    "title": "LETS GOLF",
+    "url": "/games/LETS_GOLF.jar",
+    "icon": "/games/LETS_GOLF.png",
+    "width": 240,
+    "height": 320
+  },
+  {
+    "title": "Lets Go Bowling",
+    "url": "/games/LetsGoBowling.jar",
+    "icon": "/games/LetsGoBowling.png",
+    "width": 176,
+    "height": 220
+  },
+  {
+    "title": "Motocross",
+    "url": "/games/Motocross.jar",
+    "icon": "/games/Motocross.png",
+    "width": 132,
+    "height": 176
+  },
+  {
+    "title": "Soul Of Darkness",
+    "url": "/games/SoulOfDarkness.jar",
+    "icon": "/games/SoulOfDarkness.png",
+    "width": 176,
+    "height": 220
+  },
+  {
+    "title": "Tropical Madness",
+    "url": "/games/TropicalMadness.jar",
+    "icon": "/games/TropicalMadness.png",
+    "width": 240,
+    "height": 320
+  },
+  {
+    "title": "Wonder Blocks",
+    "url": "/games/WonderBlocks.jar",
+    "icon": "/games/WonderBlocks.png",
+    "width": 176,
+    "height": 220
+  }
+  
+  
+]
