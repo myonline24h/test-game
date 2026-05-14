@@ -16,7 +16,7 @@
       "menu_items": ["CAREER", "QUICK RACE", "MULTIPLAYER", "OPTIONS", "EXIT"],
 	  "url_icon" : "https://myonline24h.github.io/test-game/games/Asphalt6/icon.png",
 	  "url_splash" : "https://myonline24h.github.io/test-game/games/Asphalt6/splash.png",
-      "url_game" : "https://myonline24h.github.io/test-game/games/Asphalt6/game.jar",
+      "url_game" : "https://myonline24h.github.io/test-game/games/Asphalt6/Asphalt6.jar",
 	  
 	  "width" : 240,
 	  "height": 320
@@ -41,9 +41,9 @@
         "OPTIONS",
         "EXIT"
       ],
-      "url_icon" : "https://myonline24h.github.io/test-game/games/Asphalt6/icon.png",
-	  "url_splash" : "https://myonline24h.github.io/test-game/games/Asphalt6/splash.png",
-      "url_game" : "https://myonline24h.github.io/test-game/games/Asphalt6/game.jar",
+      "url_icon" : "https://myonline24h.github.io/test-game/games/BubbleBash3/icon.png",
+	  "url_splash" : "https://myonline24h.github.io/test-game/games/BubbleBash3/splash.png",
+      "url_game" : "https://myonline24h.github.io/test-game/games/BubbleBash3/BubbleBash3.jar",
 	  "width" : 240,
 	  "height": 320
     },
