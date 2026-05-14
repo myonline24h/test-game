@@ -14,7 +14,9 @@
       "thumbnail": "gameloft_game_asphalt4",
       "description": "Feel the thrill of high-speed street racing. Compete in intense races, customize your dream cars and become the ultimate champion!",
       "menu_items": ["CAREER", "QUICK RACE", "MULTIPLAYER", "OPTIONS", "EXIT"],
-      "url" : "https://myonline24h.github.io/test-game/Asphalt6.jar"
+	  "url_icon" : "https://myonline24h.github.io/test-game/games/Asphalt6/icon.png",
+	  "url_splash" : "https://myonline24h.github.io/test-game/games/Asphalt6/splash.png",
+      "url_game" : "https://myonline24h.github.io/test-game/games/Asphalt6/game.jar"
     },
     {
       "id": 2,
@@ -35,7 +37,9 @@
         "OPTIONS",
         "EXIT"
       ],
-      "url" : "https://myonline24h.github.io/test-game/BubbleBash3.jar"
+      "url_icon" : "https://myonline24h.github.io/test-game/games/Asphalt6/icon.png",
+	  "url_splash" : "https://myonline24h.github.io/test-game/games/Asphalt6/splash.png",
+      "url_game" : "https://myonline24h.github.io/test-game/games/Asphalt6/game.jar"
     },
     {
       "id": 3,
@@ -50,7 +54,10 @@
       "is_recently_played": true,
       "thumbnail": "gameloft_thumb_brain_challenge",
       "description": "Train your brain with over 28 mini-games! Test your memory, logic, math and visual skills across multiple difficulty levels.",
-      "menu_items": ["DAILY TRAINING", "TEST MODE", "OPTIONS", "EXIT"]
+      "menu_items": ["DAILY TRAINING", "TEST MODE", "OPTIONS", "EXIT"],
+	  "url_icon" : "https://myonline24h.github.io/test-game/games/Asphalt6/icon.png",
+	  "url_splash" : "https://myonline24h.github.io/test-game/games/Asphalt6/splash.png",
+      "url_game" : "https://myonline24h.github.io/test-game/games/Asphalt6/game.jar"
     },
     {
       "id": 4,
