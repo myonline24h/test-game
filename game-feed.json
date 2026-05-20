@@ -2,6 +2,7 @@
   "games": [
     {
       "id": 1,
+      "game_id" : "Asphalt 6",
       "title": "Asphalt 4: Elite Racing",
       "developer": "Gameloft",
       "genre": "Racing",
@@ -14,16 +15,16 @@
       "thumbnail": "gameloft_game_asphalt4",
       "description": "Feel the thrill of high-speed street racing. Compete in intense races, customize your dream cars and become the ultimate champion!",
       "menu_items": ["CAREER", "QUICK RACE", "MULTIPLAYER", "OPTIONS", "EXIT"],
+	  "width" : 240,
+	  "height": 320,
 	  "url_icon" : "https://myonline24h.github.io/test-game/games/Asphalt6/icon.png",
 	  "url_splash" : "https://myonline24h.github.io/test-game/games/Asphalt6/splash.png",
-      "url_game" : "https://myonline24h.github.io/test-game/games/Asphalt6/Asphalt6.jar",
-	  
-	  "width" : 240,
-	  "height": 320
-				
+    "url_game" : "https://myonline24h.github.io/test-game/games/Asphalt6/Asphalt6.jar"
+
     },
     {
       "id": 2,
+      "game_id" : "Bubble Bash 3",
       "title": "Bubble Bash 3",
       "developer": "Gameloft",
       "genre": "Puzzle",
@@ -41,15 +42,18 @@
         "OPTIONS",
         "EXIT"
       ],
+	  "width" : 240,
+	  "height": 320,
       "url_icon" : "https://myonline24h.github.io/test-game/games/BubbleBash3/icon.png",
 	  "url_splash" : "https://myonline24h.github.io/test-game/games/BubbleBash3/splash.png",
-      "url_game" : "https://myonline24h.github.io/test-game/games/BubbleBash3/BubbleBash3.jar",
-	  "width" : 240,
-	  "height": 320
+      "url_game" : "https://myonline24h.github.io/test-game/games/BubbleBash3/BubbleBash3.jar"
+	
     },
     {
+     
       "id": 3,
-      "title": "Brain Challenge",
+      "game_id" : "Danger Dash",
+      "title": "Danger Dash",
       "developer": "Gameloft",
       "genre": "Puzzle",
       "year": 2007,
@@ -61,27 +65,27 @@
       "thumbnail": "gameloft_thumb_brain_challenge",
       "description": "Train your brain with over 28 mini-games! Test your memory, logic, math and visual skills across multiple difficulty levels.",
       "menu_items": ["DAILY TRAINING", "TEST MODE", "OPTIONS", "EXIT"],
-	  "url_icon" : "https://myonline24h.github.io/test-game/games/Asphalt6/icon.png",
-	  "url_splash" : "https://myonline24h.github.io/test-game/games/Asphalt6/splash.png",
-      "url_game" : "https://myonline24h.github.io/test-game/games/Asphalt6/game.jar",
 	  "width" : 240,
-	  "height": 320
-	  
-    },
+	  "height": 320,
+      "url_icon" : "https://myonline24h.github.io/test-game/games/DangerDash/icon.png",
+	  "url_splash" : "https://myonline24h.github.io/test-game/games/DangerDash/splash.png",
+      "url_game" : "https://myonline24h.github.io/test-game/games/DangerDash/DangerDash.jar"
+    }
+    
   ],
 
   "categories": [
-    { "id": "all",       "label": "All Games",       "icon": "ic_all_games"      },
-    { "id": "favorites", "label": "Favorites",       "icon": "ic_favorites"      },
-    { "id": "recent",    "label": "Recently Played", "icon": "ic_recently_played"},
-    { "id": "Action",    "label": "Action",          "icon": "ic_category_action"    },
-    { "id": "Adventure", "label": "Adventure",       "icon": "ic_category_adventure" },
-    { "id": "RPG",       "label": "RPG",             "icon": "ic_category_rpg"       },
-    { "id": "Racing",    "label": "Racing",          "icon": "ic_category_racing"    },
-    { "id": "Sports",    "label": "Sports",          "icon": "ic_category_sports"    },
-    { "id": "Puzzle",    "label": "Puzzle",          "icon": "ic_category_puzzle"    },
-    { "id": "Strategy",  "label": "Strategy",        "icon": "ic_category_strategy"  },
-    { "id": "Others",    "label": "Others",          "icon": "ic_category_others"    }
+    { "id": "all",       "label": "All Games",       "icon": "gameloft_ic_all_games"      },
+    { "id": "favorites", "label": "Favorites",       "icon": "gameloft_ic_favorites"      },
+    { "id": "recent",    "label": "Recently Played", "icon": "gameloft_ic_recently_played"},
+    { "id": "Action",    "label": "Action",          "icon": "gameloft_ic_category_action"    },
+    { "id": "Adventure", "label": "Adventure",       "icon": "gameloft_ic_category_adventure" },
+    { "id": "RPG",       "label": "RPG",             "icon": "gameloft_ic_category_rpg"       },
+    { "id": "Racing",    "label": "Racing",          "icon": "gameloft_ic_category_racing"    },
+    { "id": "Sports",    "label": "Sports",          "icon": "gameloft_ic_category_sports"    },
+    { "id": "Puzzle",    "label": "Puzzle",          "icon": "gameloft_ic_category_puzzle"    },
+    { "id": "Strategy",  "label": "Strategy",        "icon": "gameloft_ic_category_strategy"  },
+    { "id": "Others",    "label": "Others",          "icon": "gameloft_ic_category_others"    }
   ],
 
   "sort_options": [
