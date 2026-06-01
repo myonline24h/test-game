@@ -109,8 +109,8 @@
       "thumbnail": "gameloft_thumb_brain_challenge",
       "description": "Train your brain with over 28 mini-games! Test your memory, logic, math and visual skills across multiple difficulty levels.",
       "menu_items": ["DAILY TRAINING", "TEST MODE", "OPTIONS", "EXIT"],
-	  "width" : 240,
-	  "height": 320,
+	  "width" : 128,
+	  "height": 160,
       "url_icon" : "https://myonline24h.github.io/test-game/games/DangerDash/icon.png",
 	  "url_splash" : "https://myonline24h.github.io/test-game/games/DangerDash/splash.png",
       "url_game" : "https://myonline24h.github.io/test-game/games/GreenFarm3-enc.jar"
@@ -131,8 +131,8 @@
       "thumbnail": "gameloft_thumb_brain_challenge",
       "description": "Train your brain with over 28 mini-games! Test your memory, logic, math and visual skills across multiple difficulty levels.",
       "menu_items": ["DAILY TRAINING", "TEST MODE", "OPTIONS", "EXIT"],
-	  "width" : 240,
-	  "height": 320,
+	  "width" : 128,
+	  "height": 160,
       "url_icon" : "https://myonline24h.github.io/test-game/games/DangerDash/icon.png",
 	  "url_splash" : "https://myonline24h.github.io/test-game/games/DangerDash/splash.png",
       "url_game" : "https://myonline24h.github.io/test-game/games/SoulOfDarkness-enc.jar"
@@ -153,8 +153,8 @@
       "thumbnail": "gameloft_thumb_brain_challenge",
       "description": "Train your brain with over 28 mini-games! Test your memory, logic, math and visual skills across multiple difficulty levels.",
       "menu_items": ["DAILY TRAINING", "TEST MODE", "OPTIONS", "EXIT"],
-	  "width" : 240,
-	  "height": 320,
+	  "width" : 128,
+	  "height": 160,
       "url_icon" : "https://myonline24h.github.io/test-game/games/DangerDash/icon.png",
 	  "url_splash" : "https://myonline24h.github.io/test-game/games/DangerDash/splash.png",
       "url_game" : "https://myonline24h.github.io/test-game/games/Trial_Extreme-enc.jar"
