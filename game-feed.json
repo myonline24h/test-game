@@ -73,7 +73,7 @@
     },
 	{
       "id": 4,
-      "game_id" : "Assassin Creed 2",
+      "game_id" : "Assassin's Creed 2",
       "title": "Assassin Creed 2",
       "developer": "Gameloft",
       "genre": "Puzzle",
@@ -101,7 +101,7 @@
     {
      
       "id": 5,
-      "game_id" : "Prince Of Persia",
+      "game_id" : "Prince of Persia The Forgotten Sands",
       "title": "Prince Of Persia",
       "developer": "Gameloft",
       "genre": "Puzzle",
