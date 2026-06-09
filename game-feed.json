@@ -70,6 +70,55 @@
       "url_icon" : "https://myonline24h.github.io/test-game/games/DangerDash/icon.png",
 	  "url_splash" : "https://myonline24h.github.io/test-game/games/DangerDash/splash.png",
       "url_game" : "https://myonline24h.github.io/test-game/games/DangerDash/DangerDash.jar"
+    },
+	{
+      "id": 4,
+      "game_id" : "Assassin Creed 2",
+      "title": "Assassin Creed 2",
+      "developer": "Gameloft",
+      "genre": "Puzzle",
+      "year": 2010,
+      "file_size": "1.8 MB",
+      "play_time": "3h 41m",
+      "last_played": "2 days ago",
+      "is_favorite": true,
+      "is_recently_played": true,
+      "thumbnail": "gameloft_bubble_bash_3",
+      "description": "Match colorful bubbles and trigger massive chain reactions in this fast-paced arcade puzzle game. Travel through vibrant worlds and complete challenging levels with powerful boosters.",
+      "menu_items": [
+        "NEW GAME",
+        "CONTINUE",
+        "OPTIONS",
+        "EXIT"
+      ],
+	  "width" : 240,
+	  "height": 320,
+      "url_icon" : "https://myonline24h.github.io/test-game/games/AssassinCreed2/icon.png",
+	  "url_splash" : "https://myonline24h.github.io/test-game/games/AssassinCreed2/splash.png",
+      "url_game" : "https://myonline24h.github.io/test-game/games/AssassinCreed2/AssassinCreed2.jar"
+	
+    },
+    {
+     
+      "id": 5,
+      "game_id" : "Prince Of Persia",
+      "title": "Prince Of Persia",
+      "developer": "Gameloft",
+      "genre": "Puzzle",
+      "year": 2007,
+      "file_size": "0.9 MB",
+      "play_time": "8h 30m",
+      "last_played": "3 days ago",
+      "is_favorite": false,
+      "is_recently_played": true,
+      "thumbnail": "gameloft_thumb_brain_challenge",
+      "description": "Train your brain with over 28 mini-games! Test your memory, logic, math and visual skills across multiple difficulty levels.",
+      "menu_items": ["DAILY TRAINING", "TEST MODE", "OPTIONS", "EXIT"],
+	  "width" : 240,
+	  "height": 320,
+      "url_icon" : "https://myonline24h.github.io/test-game/games/PrinceOfPersia/icon.png",
+	  "url_splash" : "https://myonline24h.github.io/test-game/games/PrinceOfPersia/splash.png",
+      "url_game" : "https://myonline24h.github.io/test-game/games/PrinceOfPersia/PrinceOfPersia.jar"
     }
 	
     
