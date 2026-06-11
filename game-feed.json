@@ -1,82 +1,11 @@
 {
   "games": [
-    {
-      "id": 1,
-      "game_id" : "Asphalt 6",
-      "title": "Asphalt 4: Elite Racing",
-      "developer": "Gameloft",
-      "genre": "Racing",
-      "year": 2008,
-      "file_size": "1.8 MB",
-      "play_time": "2h 45m",
-      "last_played": "2 days ago",
-      "is_favorite": false,
-      "is_recently_played": true,
-      "thumbnail": "gameloft_game_asphalt4",
-      "description": "Feel the thrill of high-speed street racing. Compete in intense races, customize your dream cars and become the ultimate champion!",
-      "menu_items": ["CAREER", "QUICK RACE", "MULTIPLAYER", "OPTIONS", "EXIT"],
-	  "width" : 240,
-	  "height": 320,
-	  "url_icon" : "https://myonline24h.github.io/test-game/games/Asphalt6/icon.png",
-	  "url_splash" : "https://myonline24h.github.io/test-game/games/Asphalt6/splash.png",
-    "url_game" : "https://myonline24h.github.io/test-game/games/Asphalt6/Asphalt6.jar"
-
-    },
-    {
-      "id": 2,
-      "game_id" : "Bubble Bash 3",
-      "title": "Bubble Bash 3",
-      "developer": "Gameloft",
-      "genre": "Puzzle",
-      "year": 2010,
-      "file_size": "1.8 MB",
-      "play_time": "3h 41m",
-      "last_played": "2 days ago",
-      "is_favorite": true,
-      "is_recently_played": true,
-      "thumbnail": "gameloft_bubble_bash_3",
-      "description": "Match colorful bubbles and trigger massive chain reactions in this fast-paced arcade puzzle game. Travel through vibrant worlds and complete challenging levels with powerful boosters.",
-      "menu_items": [
-        "NEW GAME",
-        "CONTINUE",
-        "OPTIONS",
-        "EXIT"
-      ],
-	  "width" : 240,
-	  "height": 320,
-      "url_icon" : "https://myonline24h.github.io/test-game/games/BubbleBash3/icon.png",
-	  "url_splash" : "https://myonline24h.github.io/test-game/games/BubbleBash3/splash.png",
-      "url_game" : "https://myonline24h.github.io/test-game/games/BubbleBash3/BubbleBash3.jar"
-	
-    },
-    {
-     
-      "id": 3,
-      "game_id" : "Danger Dash",
-      "title": "Danger Dash",
-      "developer": "Gameloft",
-      "genre": "Puzzle",
-      "year": 2007,
-      "file_size": "0.9 MB",
-      "play_time": "8h 30m",
-      "last_played": "3 days ago",
-      "is_favorite": false,
-      "is_recently_played": true,
-      "thumbnail": "gameloft_thumb_brain_challenge",
-      "description": "Train your brain with over 28 mini-games! Test your memory, logic, math and visual skills across multiple difficulty levels.",
-      "menu_items": ["DAILY TRAINING", "TEST MODE", "OPTIONS", "EXIT"],
-	  "width" : 240,
-	  "height": 320,
-      "url_icon" : "https://myonline24h.github.io/test-game/games/DangerDash/icon.png",
-	  "url_splash" : "https://myonline24h.github.io/test-game/games/DangerDash/splash.png",
-      "url_game" : "https://myonline24h.github.io/test-game/games/DangerDash/DangerDash.jar"
-    },
 	{
-      "id": 4,
+      "id": 1,
       "game_id" : "Assassin's Creed 2",
       "title": "Assassin Creed 2",
       "developer": "Gameloft",
-      "genre": "Puzzle",
+      "genre": "Action",
       "year": 2010,
       "file_size": "1.8 MB",
       "play_time": "3h 41m",
@@ -98,29 +27,138 @@
       "url_game" : "https://myonline24h.github.io/test-game/games/AssassinCreed2/AssassinCreed2.jar"
 	
     },
-    {
-     
-      "id": 5,
-      "game_id" : "Prince of Persia The Forgotten Sands",
-      "title": "Prince Of Persia",
+	{
+      "id": 2,
+      "game_id" : "Miami Nights",
+      "title": "MiamiNights",
       "developer": "Gameloft",
-      "genre": "Puzzle",
-      "year": 2007,
-      "file_size": "0.9 MB",
-      "play_time": "8h 30m",
-      "last_played": "3 days ago",
-      "is_favorite": false,
+      "genre": "Adventure",
+      "year": 2010,
+      "file_size": "1.8 MB",
+      "play_time": "3h 41m",
+      "last_played": "2 days ago",
+      "is_favorite": true,
       "is_recently_played": true,
-      "thumbnail": "gameloft_thumb_brain_challenge",
-      "description": "Train your brain with over 28 mini-games! Test your memory, logic, math and visual skills across multiple difficulty levels.",
-      "menu_items": ["DAILY TRAINING", "TEST MODE", "OPTIONS", "EXIT"],
+      "thumbnail": "gameloft_bubble_bash_3",
+      "description": "Match colorful bubbles and trigger massive chain reactions in this fast-paced arcade puzzle game. Travel through vibrant worlds and complete challenging levels with powerful boosters.",
+      "menu_items": [
+        "NEW GAME",
+        "CONTINUE",
+        "OPTIONS",
+        "EXIT"
+      ],
 	  "width" : 240,
 	  "height": 320,
-      "url_icon" : "https://myonline24h.github.io/test-game/games/PrinceOfPersia/icon.png",
-	  "url_splash" : "https://myonline24h.github.io/test-game/games/PrinceOfPersia/splash.png",
-      "url_game" : "https://myonline24h.github.io/test-game/games/PrinceOfPersia/PrinceOfPersia.jar"
-    }
+      "url_icon" : "https://myonline24h.github.io/test-game/games/MiamiNights/icon.png",
+	  "url_splash" : "https://myonline24h.github.io/test-game/games/MiamiNights/splash.png",
+      "url_game" : "https://myonline24h.github.io/test-game/games/MiamiNights/MiamiNights.jar"
 	
+    },
+	{
+      "id": 3,
+      "game_id" : "Ferrari GT",
+      "title": "FerrariGT",
+      "developer": "Gameloft",
+      "genre": "Racing",
+      "year": 2010,
+      "file_size": "1.8 MB",
+      "play_time": "3h 41m",
+      "last_played": "2 days ago",
+      "is_favorite": true,
+      "is_recently_played": true,
+      "thumbnail": "gameloft_bubble_bash_3",
+      "description": "Match colorful bubbles and trigger massive chain reactions in this fast-paced arcade puzzle game. Travel through vibrant worlds and complete challenging levels with powerful boosters.",
+      "menu_items": [
+        "NEW GAME",
+        "CONTINUE",
+        "OPTIONS",
+        "EXIT"
+      ],
+	  "width" : 240,
+	  "height": 320,
+      "url_icon" : "https://myonline24h.github.io/test-game/games/FerrariGT/icon.png",
+	  "url_splash" : "https://myonline24h.github.io/test-game/games/FerrariGT/splash.png",
+      "url_game" : "https://myonline24h.github.io/test-game/games/FerrariGT/FerrariGT.jar"
+	
+    },
+	{
+      "id": 4,
+      "game_id" : "Platinum Solitaire",
+      "title": "PlatinumSolitaire",
+      "developer": "Gameloft",
+      "genre": "Racing",
+      "year": 2010,
+      "file_size": "1.8 MB",
+      "play_time": "3h 41m",
+      "last_played": "2 days ago",
+      "is_favorite": true,
+      "is_recently_played": true,
+      "thumbnail": "gameloft_bubble_bash_3",
+      "description": "Match colorful bubbles and trigger massive chain reactions in this fast-paced arcade puzzle game. Travel through vibrant worlds and complete challenging levels with powerful boosters.",
+      "menu_items": [
+        "NEW GAME",
+        "CONTINUE",
+        "OPTIONS",
+        "EXIT"
+      ],
+	  "width" : 240,
+	  "height": 320,
+      "url_icon" : "https://myonline24h.github.io/test-game/games/PlatinumSolitaire/icon.png",
+	  "url_splash" : "https://myonline24h.github.io/test-game/games/PlatinumSolitaire/splash.png",
+      "url_game" : "https://myonline24h.github.io/test-game/games/PlatinumSolitaire/PlatinumSolitaire.jar"
+	
+    },
+    {
+      "id": 5,
+      "game_id" : "Asphalt 6",
+      "title": "Asphalt 6: Elite Racing",
+      "developer": "Gameloft",
+      "genre": "Racing",
+      "year": 2008,
+      "file_size": "1.8 MB",
+      "play_time": "2h 45m",
+      "last_played": "2 days ago",
+      "is_favorite": false,
+      "is_recently_played": true,
+      "thumbnail": "gameloft_game_asphalt4",
+      "description": "Feel the thrill of high-speed street racing. Compete in intense races, customize your dream cars and become the ultimate champion!",
+      "menu_items": ["CAREER", "QUICK RACE", "MULTIPLAYER", "OPTIONS", "EXIT"],
+	  "width" : 240,
+	  "height": 320,
+	  "url_icon" : "https://myonline24h.github.io/test-game/games/Asphalt6/icon.png",
+	  "url_splash" : "https://myonline24h.github.io/test-game/games/Asphalt6/splash.png",
+    "url_game" : "https://myonline24h.github.io/test-game/games/Asphalt6/Asphalt6.jar"
+
+    },
+    {
+      "id": 6,
+      "game_id" : "Bubble Bash 3",
+      "title": "Bubble Bash 3",
+      "developer": "Gameloft",
+      "genre": "Racing",
+      "year": 2010,
+      "file_size": "1.8 MB",
+      "play_time": "3h 41m",
+      "last_played": "2 days ago",
+      "is_favorite": true,
+      "is_recently_played": true,
+      "thumbnail": "gameloft_bubble_bash_3",
+      "description": "Match colorful bubbles and trigger massive chain reactions in this fast-paced arcade puzzle game. Travel through vibrant worlds and complete challenging levels with powerful boosters.",
+      "menu_items": [
+        "NEW GAME",
+        "CONTINUE",
+        "OPTIONS",
+        "EXIT"
+      ],
+	  "width" : 240,
+	  "height": 320,
+      "url_icon" : "https://myonline24h.github.io/test-game/games/BubbleBash3/icon.png",
+	  "url_splash" : "https://myonline24h.github.io/test-game/games/BubbleBash3/splash.png",
+      "url_game" : "https://myonline24h.github.io/test-game/games/BubbleBash3/BubbleBash3.jar"
+	
+    },
+	
+   
     
   ],
 
